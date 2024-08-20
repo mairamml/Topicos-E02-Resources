@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_str">Bienvenue, maître</string>
+    <string name="hello_str">Salut, monde!</string>
+    <string name="surprise_str">Surprise!</string>
+</resources>
