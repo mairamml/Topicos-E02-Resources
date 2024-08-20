@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcomeStr">Bem vindo, mestre</string>
-    <string name="helloStr">Olá, mundo!</string>
-    <string name="surpriseStr">Surpresa!</string>
+    <string name="welcome_str">Bem vindo, mestre</string>
+    <string name="hello_str">Olá, mundo!</string>
+    <string name="surprise_str">Surpresa!</string>
 </resources>
